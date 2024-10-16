@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: rgb(24, 24, 24);
+    color: rgb(200, 251, 251);
+}
+
+section{
+    background-color: #4227d8;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+h2, ol, li{
+    color: black;
+}
+p{
+    font: sans-serif;
+}
+a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+footer{text-align: center;}
